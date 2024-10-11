@@ -1,0 +1,8 @@
+{
+  "login": {
+    "password": "Пароль",
+    "email": "E-mail",
+    "authHeader": "Авторизация",
+    "logIn": "Войти"
+  }
+}
